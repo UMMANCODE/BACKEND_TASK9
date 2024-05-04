@@ -41,7 +41,6 @@
     <Folder Include="ViewModels\" />
     <Folder Include="Services\" />
     <Folder Include="Areas\Manage\Controllers\" />
-    <Folder Include="Areas\Manage\Views\Shared\" />
     <Folder Include="wwwroot\manage\assets\vendor\" />
     <Folder Include="Areas\Manage\ViewModels\" />
     <Folder Include="Areas\Manage\Views\Genre\" />
